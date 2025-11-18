@@ -19,6 +19,7 @@ The primary objective of the project is to:
 The project utilizes:
  - Power BI: For creating dynamic, interactive dashboards with rich visualizations
  - Google Looker Studio: For web-based data visualization and dashboard creation
+ - Snowflake - For SQL
  - shopping_trends_with_processdate.csv: The dataset used for analysis, enhanced with a timestamp column for time-based insights
 
 **Key Insights Summary**
